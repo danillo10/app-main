@@ -7,14 +7,7 @@
 /coverage
 
 # production
-/src
-/public
-package*
-server.js
-README.md
-jsconfig.js
-package-lock.json
-package.json
+/build
 
 # misc
 .DS_Store
