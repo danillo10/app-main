@@ -1,0 +1,2 @@
+(this.webpackJsonpunicom=this.webpackJsonpunicom||[]).push([[24],{485:function(t,e,n){"use strict";n.r(e);var c=n(52),o=n(0),s=n(7),u=n(22),r=n(1);e.default=function(){var t=Object(o.useState)({}),e=Object(c.a)(t,2),n=e[0],a=e[1];return Object(o.useEffect)((function(){new Promise((function(t){return t(Object(u.e)())})).then((function(t){"admin"===t.data.roles&&a("/grupos"),"user"===t.data.roles&&a("/relatorios")}))}),[]),Object(r.jsx)(s.a,{to:n})}}}]);
+//# sourceMappingURL=24.655dfd09.chunk.js.map
